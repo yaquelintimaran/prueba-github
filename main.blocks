@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="#s`Ciz!RS#f~ECF#8x4b" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="v|JqgLstkB~V1=rUGIh4"><field name="i">IconNames.Heart</field></block></statement></block></xml>
